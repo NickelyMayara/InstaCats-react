@@ -1,0 +1,43 @@
+.meuMain{
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+@media screen and (max-width: 1250px) {
+  .imgMain{
+    width: 1000px;
+    height: 100%;
+  }
+}
+
+@media screen and (max-width: 1045px) {
+  .imgMain{
+    width: 800px;
+    height: 100%;
+  }
+}
+
+@media screen and (max-width: 880px) {
+  .imgMain{
+    width: 600px;
+    height: 100%;
+  }
+}
+
+@media screen and (max-width: 805px) {
+  .imgMain{
+    width: 500px;
+    height: 100%;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .imgMain{
+    width: 200px;
+    height: 100%;
+  }
+}
+
+
